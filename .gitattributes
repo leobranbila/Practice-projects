@@ -1,2 +1,1 @@
-*.pbix linguist-language=power-bi
-
+*.ipynb linguist-language=Python
